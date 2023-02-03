@@ -1,0 +1,37 @@
+#first{
+    height: 100%;
+}
+
+#home{
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+footer a{
+    padding: 0.5em 1em;
+}
+
+body{
+    background-image: url(aura.jpg);
+    background-size: cover;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 180px;
+}
+
+.center h1{
+    color: #F6F9FF;
+    font-size: 5em;
+}
