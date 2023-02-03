@@ -183,15 +183,15 @@ footer p:hover{
     font-size: 1.5em;
     }
 
-    section h1{
-        color: green;
-    }
-
     .box{
         width: 200px;
     }
 
     #right1, #right2{
         height: 220px;
+    }
+
+    .one{
+        margin: 0px;
     }
 }

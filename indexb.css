@@ -35,3 +35,9 @@ main{
     color: #F6F9FF;
     font-size: 5em;
 }
+
+@media screen and (max-width: 500px) {
+    .center h1{
+        font-size: 4em;
+    }
+}
